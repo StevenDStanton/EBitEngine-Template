@@ -2,7 +2,7 @@
 
 This is a quick start EBitEngine Template for my projects. It is designed to get your game built and deployed for HTML5 to itch.io
 
-I am running this on Pop!\_OS now Windows. If you are using Windows this may not work for you.
+I am running this on Pop!\_OS not Windows. If you are using Windows this may not work for you.
 
 ## Get Started
 
