@@ -16,11 +16,14 @@ I am running this on Pop!\_OS now Windows. If you are using Windows this may not
 - [ ] `go mod tidy`
 - [ ] [Install Butler](https://itch.io/docs/butler/installing.html)
 - [ ] `butler login`
+- [ ] Update Makefile line 15 to whatever your asset folder is
 - [ ] update Makefile line 25 to match your module name above
 - [ ] update Makefile line 35 with itch.io profile and game name and version
 - [ ] update Makefile line 45 with itch.io profile and gane name
 
 Reminder: Update version for each deploy
+
+Note: For the security paranoid, you can confirm the html file created and EBitEngine instructions on the [EBitEngine Website](https://ebitengine.org/en/documents/webassembly.html)
 
 ## Commands
 
